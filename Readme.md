@@ -33,4 +33,6 @@ differentiate between the models and analyse their performances on wine quality 
 
 ---
 
-  https://github.com/p2pdops/data-analytics-lab
+```bash
+git config --global http.proxy http://125.200.50.50:80
+```
