@@ -30,3 +30,9 @@ differentiate between the models and analyse their performances on wine quality 
 (Dataset Link: https://cseweb.ucsd.edu/~jmcauley/datasets.html)
 12. Perform Sentiment analysis on the data to see the statistics of what type of movie do users like.
 (Dataset Link: http://ai.stanford.edu/~amaas/data/sentiment/)
+
+---
+
+```bash
+git config --global http.proxy http://125.200.50.50:80
+```
