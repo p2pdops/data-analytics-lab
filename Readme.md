@@ -37,4 +37,6 @@ differentiate between the models and analyse their performances on wine quality 
 
 ```bash
 git config --global http.proxy http://125.200.50.50:80
+git config --global user.email "19131a1204@gvpce.ac.in"
+git config --global user.name "Pavan"
 ```
