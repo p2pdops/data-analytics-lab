@@ -1,3 +1,5 @@
+Syllabus: https://gvpce.ac.in/syllabi/B.Tech%2019-20/DATA%20ANALYTICS%20LAB%20IT.pdf
+
 # LIST OF EXPERIMENTS:
 1. Predict the housing prices of a new house using regression.
 (Dataset Link: https://www.kaggle.com/puxama/bostoncsv)
